@@ -1,1 +1,1 @@
-# Implemented-a-standard-VAE-beta--VAE-VQ-VAE
+# Implemented-a-standard-VAE-and-beta-VAE
